@@ -3,7 +3,7 @@
 ## 42 Profile
 
 <p align="center">
-    <img src="https://badge.mediaplus.ma/bluebinary/mserrouk" alt="mserrouk's 42 stats" />
+    <img src="https://badge.mediaplus.ma/greenbinary/mserrouk" alt="mserrouk's 42 stats" />
 </p>
 
 
