@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm mouad serroukh</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
+## 42 Profile
+
+<p align="center">
+    <img src="https://badge.mediaplus.ma/greenbinary/mserrouk" alt="mserrouk's 42 stats" />
+</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouadsrk" alt="mouadsrk" /></a> </p>
 
