@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm mouad serroukh</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
--- 42 Profile
 
+<h3 align="left">42 Profile</h3>
 <p align="center">
     <img src="https://badge.mediaplus.ma/greenbinary/mserrouk" alt="mserrouk's 42 stats" />
 </p>
